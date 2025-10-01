@@ -31,12 +31,21 @@ select {
     border-radius: 5px;
 }
 
+#address {
+    width: 29.5vw;
+    height: 15vh;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
 .agreement {
+    margin-top: 1vh;
     display: flex;
     flex-direction: row;
 }
 
 .agreement label {
+    color: cornflowerblue;
     font-size: 12px;
     margin-left: 1vh;
 }
@@ -45,11 +54,6 @@ select {
     width: auto;
     height: auto;
     margin: 0;
-}
-
-#address {
-    width: 29.5vw;
-    height: 15vh;
 }
 
 button {
