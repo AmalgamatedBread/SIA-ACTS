@@ -1,1 +1,1 @@
-In participation of our subjects laboratory activities, this repository serves as a storage for all related works, this repository is free for exploration and reviews please add your suggestions on how to better this project
+In participation of our subjects laboratory activities, this repository serves as a storage for all related works, this repository is free for exploration, reviews and modifications, feel free to leave your suggestions on how to better this project
