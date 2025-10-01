@@ -35,6 +35,7 @@ select {
     width: 29.5vw;
     height: 15vh;
     border: 1px solid gray;
+    resize: none;
     border-radius: 5px;
 }
 
